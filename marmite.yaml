@@ -1,0 +1,14 @@
+name: Márcio Conrado
+tagline: Dev, tech e simplicidade. 
+url: https://mconrado.github.io/blog
+archives_title: Arquivo
+enable_search: true
+search_title: Buscar
+menu:
+  - ["Sobre", "about.html"]
+  - ["Arquivo", "archive.html"]
+  - ["Tags", "tags.html"]
+
+
+# More options available to customize the website
+# read on https://rochacbruno.github.io/marmite/tag/customization.html
