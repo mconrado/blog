@@ -7,7 +7,7 @@ tags: blog
 <div style="text-align: justify;">
 
   
-Para quem sente que seu ciclo de desenvolvimento pessoal está sendo drenado, quebrado e com ruídos no meio de tanta turbulência que a área de tecnologia pode proporcionar, é fácil se perder. Com isso juntei alguns conselhos, aprendizados, autoavaliação, dicas de conversas com colegas, que podem ajudar nessa jornada::
+Para quem sente que seu ciclo de desenvolvimento pessoal está sendo drenado, quebrado e com ruídos no meio de tanta turbulência que a área de tecnologia pode proporcionar, é fácil se perder. Com isso juntei alguns conselhos, aprendizados, autoavaliação, dicas de conversas com colegas, que podem ajudar nessa jornada:
 
 <br>
 <br>
