@@ -1,7 +1,7 @@
 ---
 tags: blog
 ---
-# Pequenos conselhos
+# Pequenos conselhos.
 
 
 <div style="text-align: justify;">
